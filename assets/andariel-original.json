@@ -1,0 +1,143 @@
+{"frames": {
+
+"andariel/original/d00_f000.png":
+{
+	"frame": {"x":354,"y":171,"w":149,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":10,"w":149,"h":167},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f001.png":
+{
+	"frame": {"x":354,"y":0,"w":156,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":6,"w":156,"h":171},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f002.png":
+{
+	"frame": {"x":344,"y":681,"w":170,"h":168},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":9,"w":170,"h":168},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f003.png":
+{
+	"frame": {"x":0,"y":563,"w":173,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":173,"h":169},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f004.png":
+{
+	"frame": {"x":0,"y":391,"w":172,"h":174},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":172,"h":174},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f005.png":
+{
+	"frame": {"x":176,"y":253,"w":169,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":169,"h":175},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f006.png":
+{
+	"frame": {"x":351,"y":338,"w":160,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":160,"h":173},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f007.png":
+{
+	"frame": {"x":174,"y":422,"w":146,"h":174},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":3,"w":146,"h":174},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f008.png":
+{
+	"frame": {"x":0,"y":0,"w":135,"h":177},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":135,"h":177},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f009.png":
+{
+	"frame": {"x":0,"y":262,"w":129,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":2,"w":129,"h":175},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f010.png":
+{
+	"frame": {"x":0,"y":135,"w":127,"h":176},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":1,"w":127,"h":176},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f011.png":
+{
+	"frame": {"x":177,"y":127,"w":126,"h":177},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":0,"w":126,"h":177},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f012.png":
+{
+	"frame": {"x":177,"y":0,"w":127,"h":177},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":0,"w":127,"h":177},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f013.png":
+{
+	"frame": {"x":0,"y":732,"w":132,"h":173},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":4,"w":132,"h":173},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f014.png":
+{
+	"frame": {"x":173,"y":568,"w":138,"h":171},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":6,"w":138,"h":171},
+	"sourceSize": {"w":178,"h":179}
+},
+"andariel/original/d00_f015.png":
+{
+	"frame": {"x":348,"y":511,"w":144,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":7,"w":144,"h":170},
+	"sourceSize": {"w":178,"h":179}
+}},
+"animations": {
+	"andariel/original/d00_f": ["andariel/original/d00_f000.png","andariel/original/d00_f001.png","andariel/original/d00_f002.png","andariel/original/d00_f003.png","andariel/original/d00_f004.png","andariel/original/d00_f005.png","andariel/original/d00_f006.png","andariel/original/d00_f007.png","andariel/original/d00_f008.png","andariel/original/d00_f009.png","andariel/original/d00_f010.png","andariel/original/d00_f011.png","andariel/original/d00_f012.png","andariel/original/d00_f013.png","andariel/original/d00_f014.png","andariel/original/d00_f015.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "andariel-original.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":864},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ed08b95643cb6a8008a446e6eca27a3a:a9635edc477088ee1238c33068621b6a:4ce1b9439f24cbb932a024ea92e9b60f$"
+}
+}

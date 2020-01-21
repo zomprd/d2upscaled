@@ -1,0 +1,79 @@
+{"frames": {
+
+"asn-nu/digipaint/d00_f000.png":
+{
+	"frame": {"x":0,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/digipaint/d00_f001.png":
+{
+	"frame": {"x":214,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/digipaint/d00_f002.png":
+{
+	"frame": {"x":428,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/digipaint/d00_f003.png":
+{
+	"frame": {"x":642,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/digipaint/d00_f004.png":
+{
+	"frame": {"x":856,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/digipaint/d00_f005.png":
+{
+	"frame": {"x":1070,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/digipaint/d00_f006.png":
+{
+	"frame": {"x":1284,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/digipaint/d00_f007.png":
+{
+	"frame": {"x":1498,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+}},
+"animations": {
+	"asn-nu/digipaint/d00_f": ["asn-nu/digipaint/d00_f000.png","asn-nu/digipaint/d00_f001.png","asn-nu/digipaint/d00_f002.png","asn-nu/digipaint/d00_f003.png","asn-nu/digipaint/d00_f004.png","asn-nu/digipaint/d00_f005.png","asn-nu/digipaint/d00_f006.png","asn-nu/digipaint/d00_f007.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asn-nu-digipaint.png",
+	"format": "RGBA8888",
+	"size": {"w":1712,"h":170},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3f696d0065eb13aadd3901b1c1f807fc:ede02742dea99559d18daf6f284f9322:abc0b083ee810f1cf97883fef7ce0b4f$"
+}
+}

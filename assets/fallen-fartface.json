@@ -1,0 +1,95 @@
+{"frames": {
+
+"fallen/fartface/d00_f000.png":
+{
+	"frame": {"x":0,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fartface/d00_f001.png":
+{
+	"frame": {"x":114,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fartface/d00_f002.png":
+{
+	"frame": {"x":228,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fartface/d00_f003.png":
+{
+	"frame": {"x":342,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fartface/d00_f004.png":
+{
+	"frame": {"x":456,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fartface/d00_f005.png":
+{
+	"frame": {"x":570,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fartface/d00_f006.png":
+{
+	"frame": {"x":684,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fartface/d00_f007.png":
+{
+	"frame": {"x":798,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fartface/d00_f008.png":
+{
+	"frame": {"x":912,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fartface/d00_f009.png":
+{
+	"frame": {"x":1026,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+}},
+"animations": {
+	"fallen/fartface/d00_f": ["fallen/fartface/d00_f000.png","fallen/fartface/d00_f001.png","fallen/fartface/d00_f002.png","fallen/fartface/d00_f003.png","fallen/fartface/d00_f004.png","fallen/fartface/d00_f005.png","fallen/fartface/d00_f006.png","fallen/fartface/d00_f007.png","fallen/fartface/d00_f008.png","fallen/fartface/d00_f009.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fallen-fartface.png",
+	"format": "RGBA8888",
+	"size": {"w":1140,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cb8fc657dc90d8fb6d8dce799feace8a:55830628248be635cf811e8c45caf19d:cf1dc5d815576ce6cb40fc3fc8c20711$"
+}
+}

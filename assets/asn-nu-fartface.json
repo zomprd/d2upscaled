@@ -1,0 +1,79 @@
+{"frames": {
+
+"asn-nu/fartface/d00_f000.png":
+{
+	"frame": {"x":0,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/fartface/d00_f001.png":
+{
+	"frame": {"x":214,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/fartface/d00_f002.png":
+{
+	"frame": {"x":428,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/fartface/d00_f003.png":
+{
+	"frame": {"x":642,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/fartface/d00_f004.png":
+{
+	"frame": {"x":856,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/fartface/d00_f005.png":
+{
+	"frame": {"x":1070,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/fartface/d00_f006.png":
+{
+	"frame": {"x":1284,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/fartface/d00_f007.png":
+{
+	"frame": {"x":1498,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+}},
+"animations": {
+	"asn-nu/fartface/d00_f": ["asn-nu/fartface/d00_f000.png","asn-nu/fartface/d00_f001.png","asn-nu/fartface/d00_f002.png","asn-nu/fartface/d00_f003.png","asn-nu/fartface/d00_f004.png","asn-nu/fartface/d00_f005.png","asn-nu/fartface/d00_f006.png","asn-nu/fartface/d00_f007.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asn-nu-fartface.png",
+	"format": "RGBA8888",
+	"size": {"w":1712,"h":170},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:529d6ddd71b2684d94e9909a71c5ae1e:8eb4488776208e0e7dbf12fcc4104c12:6db0eeca3dd3f82329f8ac209bb9a999$"
+}
+}

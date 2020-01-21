@@ -1,0 +1,22 @@
+var utils = require("./utils");
+
+utils.deleteFolderRecursive(".cache");
+utils.deleteFolderRecursive("assets/lab01");
+utils.deleteFolderRecursive("assets/lab02");
+utils.deleteFolderRecursive("assets/lab04");
+utils.deleteFolderRecursive("assets/lab05");
+utils.deleteFolderRecursive("assets/game_arkanoid");
+utils.deleteFolderRecursive("assets/game_pacman");
+utils.deleteFolderRecursive("assets/game_paratrooper");
+utils.deleteFolderRecursive("build", true);
+utils.deleteFolderRecursive("build_pre", true);
+utils.deleteFolderRecursive("libs/revealjs");
+utils.deleteFolderRecursive("src/labs");
+utils.deleteFolderRecursive("src/lectures");
+utils.deleteFolderRecursive("src/games");
+utils.deleteFolderRecursive("static", true);
+utils.deleteFolderRecursive("templates", true);
+utils.deleteFile('CHANGELOG.md', 'LICENSE', 'README.md');
+utils.deleteFolderRecursive("docs");
+utils.copyFileSync('scripts/skeleton.html', 'templates/index.html');
+utils.copyFileSync('scripts/skeleton.ts', 'src/my-game.ts');

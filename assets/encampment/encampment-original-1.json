@@ -1,0 +1,23 @@
+{"frames": {
+
+"encampment_original/1.png":
+{
+	"frame": {"x":1,"y":1,"w":1640,"h":1640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1640,"h":1640},
+	"sourceSize": {"w":1640,"h":1640}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "encampment-original-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1642,"h":1642},
+	"scale": "1",
+	"related_multi_packs": [ "encampment-original-0.json", "encampment-original-2.json", "encampment-original-3.json", "encampment-original-4.json", "encampment-original-5.json", "encampment-original-6.json", "encampment-original-7.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ea768911514adb6ea6f4849edbbc7742:b515b131c07b344059182615ddceeba0:c0c248fe8ad17ad3d6cd7917abecaf11$"
+}
+}

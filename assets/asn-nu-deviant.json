@@ -1,0 +1,79 @@
+{"frames": {
+
+"asn-nu/deviantPixelHD/d00_f000.png":
+{
+	"frame": {"x":0,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/deviantPixelHD/d00_f001.png":
+{
+	"frame": {"x":214,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/deviantPixelHD/d00_f002.png":
+{
+	"frame": {"x":428,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/deviantPixelHD/d00_f003.png":
+{
+	"frame": {"x":642,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/deviantPixelHD/d00_f004.png":
+{
+	"frame": {"x":856,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/deviantPixelHD/d00_f005.png":
+{
+	"frame": {"x":1070,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/deviantPixelHD/d00_f006.png":
+{
+	"frame": {"x":1284,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/deviantPixelHD/d00_f007.png":
+{
+	"frame": {"x":1498,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+}},
+"animations": {
+	"asn-nu/deviantPixelHD/d00_f": ["asn-nu/deviantPixelHD/d00_f000.png","asn-nu/deviantPixelHD/d00_f001.png","asn-nu/deviantPixelHD/d00_f002.png","asn-nu/deviantPixelHD/d00_f003.png","asn-nu/deviantPixelHD/d00_f004.png","asn-nu/deviantPixelHD/d00_f005.png","asn-nu/deviantPixelHD/d00_f006.png","asn-nu/deviantPixelHD/d00_f007.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asn-nu-deviant.png",
+	"format": "RGBA8888",
+	"size": {"w":1712,"h":170},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f91899881a5172bbd45d9ceb18ba25e4:618b1883a79861defdaf0369b49d67cc:d922c72a300e9256c50a6969ec441150$"
+}
+}

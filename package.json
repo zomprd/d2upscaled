@@ -1,0 +1,29 @@
+{
+  "name": "D2upscaled",
+  "author": "",
+  "scripts": {
+    "run": "node scripts/deploy.js && tsc --noEmit && parcel templates/*.html templates/*.pug --out-dir build",
+    "start": "node scripts/deploy.js && tsc --noEmit && parcel templates/*.html templates/*.pug --out-dir build",
+    "clean": "node scripts/clean.js",
+    "deploy": "node scripts/deploy.js && tsc --noEmit && parcel build templates/*.html templates/*.pug --out-dir build --no-cache --no-source-maps",
+    "lint": "tslint --project tslint.json",
+    "clean_materials": "node scripts/clean-materials.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@types/matter-js": "^0.10.4",
+    "@types/vivus": "^0.4.0",
+    "mathjax-node": "^2.1.1",
+    "matter-js": "^0.14.2",
+    "parcel-bundler": "^1.12.3",
+    "parcel-plugin-json-url-loader": "^0.1.2",
+    "pixi-sound": "^3.0.4",
+    "pixi.js": "^5.1.3",
+    "poly-decomp": "^0.3.0",
+    "pug": "^2.0.4",
+    "sass": "^1.23.0",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3",
+    "vivus": "^0.4.5"
+  }
+}

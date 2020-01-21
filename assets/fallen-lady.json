@@ -1,0 +1,95 @@
+{"frames": {
+
+"fallen/lady/d00_f000.png":
+{
+	"frame": {"x":0,"y":1101,"w":114,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":114,"h":119},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/lady/d00_f001.png":
+{
+	"frame": {"x":0,"y":617,"w":114,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":114,"h":121},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/lady/d00_f002.png":
+{
+	"frame": {"x":0,"y":125,"w":114,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":114,"h":124},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/lady/d00_f003.png":
+{
+	"frame": {"x":0,"y":0,"w":114,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":114,"h":125},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/lady/d00_f004.png":
+{
+	"frame": {"x":0,"y":249,"w":114,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":114,"h":124},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/lady/d00_f005.png":
+{
+	"frame": {"x":0,"y":738,"w":114,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":114,"h":121},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/lady/d00_f006.png":
+{
+	"frame": {"x":0,"y":373,"w":114,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":114,"h":122},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/lady/d00_f007.png":
+{
+	"frame": {"x":0,"y":495,"w":114,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":114,"h":122},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/lady/d00_f008.png":
+{
+	"frame": {"x":0,"y":859,"w":114,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":114,"h":121},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/lady/d00_f009.png":
+{
+	"frame": {"x":0,"y":980,"w":114,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":114,"h":121},
+	"sourceSize": {"w":114,"h":128}
+}},
+"animations": {
+	"fallen/lady/d00_f": ["fallen/lady/d00_f000.png","fallen/lady/d00_f001.png","fallen/lady/d00_f002.png","fallen/lady/d00_f003.png","fallen/lady/d00_f004.png","fallen/lady/d00_f005.png","fallen/lady/d00_f006.png","fallen/lady/d00_f007.png","fallen/lady/d00_f008.png","fallen/lady/d00_f009.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fallen-lady.png",
+	"format": "RGBA8888",
+	"size": {"w":114,"h":1220},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b3b66372a2e84f12d08fec90b4729b40:bf47c5340883a8564f3c1cfd92787928:0a0e3d61e8a6c7800b72f67d0a890468$"
+}
+}

@@ -1,0 +1,95 @@
+{"frames": {
+
+"fallen/fatality/d00_f000.png":
+{
+	"frame": {"x":0,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fatality/d00_f001.png":
+{
+	"frame": {"x":114,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fatality/d00_f002.png":
+{
+	"frame": {"x":228,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fatality/d00_f003.png":
+{
+	"frame": {"x":342,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fatality/d00_f004.png":
+{
+	"frame": {"x":456,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fatality/d00_f005.png":
+{
+	"frame": {"x":570,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fatality/d00_f006.png":
+{
+	"frame": {"x":684,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fatality/d00_f007.png":
+{
+	"frame": {"x":798,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fatality/d00_f008.png":
+{
+	"frame": {"x":912,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/fatality/d00_f009.png":
+{
+	"frame": {"x":1026,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+}},
+"animations": {
+	"fallen/fatality/d00_f": ["fallen/fatality/d00_f000.png","fallen/fatality/d00_f001.png","fallen/fatality/d00_f002.png","fallen/fatality/d00_f003.png","fallen/fatality/d00_f004.png","fallen/fatality/d00_f005.png","fallen/fatality/d00_f006.png","fallen/fatality/d00_f007.png","fallen/fatality/d00_f008.png","fallen/fatality/d00_f009.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fallen-fatality.png",
+	"format": "RGBA8888",
+	"size": {"w":1140,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fc8d73d20448a3ae96a175ae30128dcc:dc49a1f30bf03b1bda00a4a3ca2cb3f5:5cdeed7af579e1ad8bec548c64a467c4$"
+}
+}

@@ -1,0 +1,79 @@
+{"frames": {
+
+"asn-nu/rebout/d00_f000.png":
+{
+	"frame": {"x":0,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/rebout/d00_f001.png":
+{
+	"frame": {"x":214,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/rebout/d00_f002.png":
+{
+	"frame": {"x":428,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/rebout/d00_f003.png":
+{
+	"frame": {"x":642,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/rebout/d00_f004.png":
+{
+	"frame": {"x":856,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/rebout/d00_f005.png":
+{
+	"frame": {"x":1070,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/rebout/d00_f006.png":
+{
+	"frame": {"x":1284,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/rebout/d00_f007.png":
+{
+	"frame": {"x":1498,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+}},
+"animations": {
+	"asn-nu/rebout/d00_f": ["asn-nu/rebout/d00_f000.png","asn-nu/rebout/d00_f001.png","asn-nu/rebout/d00_f002.png","asn-nu/rebout/d00_f003.png","asn-nu/rebout/d00_f004.png","asn-nu/rebout/d00_f005.png","asn-nu/rebout/d00_f006.png","asn-nu/rebout/d00_f007.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asn-nu-rebout.png",
+	"format": "RGBA8888",
+	"size": {"w":1712,"h":170},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:98caf9b0928f1049a2615824cc2b5a68:da154c4b6d5aed9f1a35948083eef936:8582d5973cb668531f8ee87c3934a8f0$"
+}
+}

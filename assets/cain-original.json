@@ -1,0 +1,143 @@
+{"frames": {
+
+"cain/original/d00_f000.png":
+{
+	"frame": {"x":0,"y":325,"w":38,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":16,"w":38,"h":66},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f001.png":
+{
+	"frame": {"x":67,"y":0,"w":37,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":16,"w":37,"h":66},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f002.png":
+{
+	"frame": {"x":67,"y":66,"w":37,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":16,"w":37,"h":66},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f003.png":
+{
+	"frame": {"x":67,"y":132,"w":37,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":16,"w":37,"h":66},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f004.png":
+{
+	"frame": {"x":38,"y":330,"w":36,"h":66},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":16,"w":36,"h":66},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f005.png":
+{
+	"frame": {"x":0,"y":37,"w":36,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":15,"w":36,"h":67},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f006.png":
+{
+	"frame": {"x":0,"y":73,"w":36,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":15,"w":36,"h":67},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f007.png":
+{
+	"frame": {"x":0,"y":109,"w":36,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":15,"w":36,"h":67},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f008.png":
+{
+	"frame": {"x":0,"y":145,"w":36,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":15,"w":36,"h":67},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f009.png":
+{
+	"frame": {"x":0,"y":181,"w":36,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":15,"w":36,"h":67},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f010.png":
+{
+	"frame": {"x":0,"y":217,"w":36,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":15,"w":36,"h":67},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f011.png":
+{
+	"frame": {"x":0,"y":253,"w":36,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":15,"w":36,"h":67},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f012.png":
+{
+	"frame": {"x":0,"y":289,"w":36,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":15,"w":36,"h":67},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f013.png":
+{
+	"frame": {"x":0,"y":0,"w":37,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":15,"w":37,"h":67},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f014.png":
+{
+	"frame": {"x":67,"y":198,"w":37,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":16,"w":37,"h":66},
+	"sourceSize": {"w":57,"h":86}
+},
+"cain/original/d00_f015.png":
+{
+	"frame": {"x":67,"y":264,"w":37,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":16,"w":37,"h":66},
+	"sourceSize": {"w":57,"h":86}
+}},
+"animations": {
+	"cain/original/d00_f": ["cain/original/d00_f000.png","cain/original/d00_f001.png","cain/original/d00_f002.png","cain/original/d00_f003.png","cain/original/d00_f004.png","cain/original/d00_f005.png","cain/original/d00_f006.png","cain/original/d00_f007.png","cain/original/d00_f008.png","cain/original/d00_f009.png","cain/original/d00_f010.png","cain/original/d00_f011.png","cain/original/d00_f012.png","cain/original/d00_f013.png","cain/original/d00_f014.png","cain/original/d00_f015.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cain-original.png",
+	"format": "RGBA8888",
+	"size": {"w":104,"h":391},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a6bf474dc4e5887be7487a7b56d55c3b:a14ea56938b85d934596d845f9453e33:ed4ceb57d077cab071fcd105e3c0b4db$"
+}
+}

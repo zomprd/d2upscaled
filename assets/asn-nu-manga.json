@@ -1,0 +1,79 @@
+{"frames": {
+
+"asn-nu/manga/d00_f000.png":
+{
+	"frame": {"x":0,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/manga/d00_f001.png":
+{
+	"frame": {"x":214,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/manga/d00_f002.png":
+{
+	"frame": {"x":428,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/manga/d00_f003.png":
+{
+	"frame": {"x":642,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/manga/d00_f004.png":
+{
+	"frame": {"x":856,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/manga/d00_f005.png":
+{
+	"frame": {"x":1070,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/manga/d00_f006.png":
+{
+	"frame": {"x":1284,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/manga/d00_f007.png":
+{
+	"frame": {"x":1498,"y":0,"w":214,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":170},
+	"sourceSize": {"w":214,"h":170}
+}},
+"animations": {
+	"asn-nu/manga/d00_f": ["asn-nu/manga/d00_f000.png","asn-nu/manga/d00_f001.png","asn-nu/manga/d00_f002.png","asn-nu/manga/d00_f003.png","asn-nu/manga/d00_f004.png","asn-nu/manga/d00_f005.png","asn-nu/manga/d00_f006.png","asn-nu/manga/d00_f007.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asn-nu-manga.png",
+	"format": "RGBA8888",
+	"size": {"w":1712,"h":170},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ba6145b9e12369650e2d691320d3d4b8:823e7f59f8ca1b1aedcf3089bf6964f9:786b1a21d702647eda75f1bccd47d5da$"
+}
+}

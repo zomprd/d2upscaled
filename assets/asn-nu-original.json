@@ -1,0 +1,79 @@
+{"frames": {
+
+"asn-nu/original/d00_f000.png":
+{
+	"frame": {"x":55,"y":0,"w":54,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":9,"w":54,"h":76},
+	"sourceSize": {"w":107,"h":85}
+},
+"asn-nu/original/d00_f001.png":
+{
+	"frame": {"x":109,"y":0,"w":54,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":9,"w":54,"h":76},
+	"sourceSize": {"w":107,"h":85}
+},
+"asn-nu/original/d00_f002.png":
+{
+	"frame": {"x":163,"y":0,"w":54,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":9,"w":54,"h":76},
+	"sourceSize": {"w":107,"h":85}
+},
+"asn-nu/original/d00_f003.png":
+{
+	"frame": {"x":217,"y":0,"w":54,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":9,"w":54,"h":76},
+	"sourceSize": {"w":107,"h":85}
+},
+"asn-nu/original/d00_f004.png":
+{
+	"frame": {"x":271,"y":0,"w":54,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":9,"w":54,"h":76},
+	"sourceSize": {"w":107,"h":85}
+},
+"asn-nu/original/d00_f005.png":
+{
+	"frame": {"x":0,"y":0,"w":55,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":9,"w":55,"h":76},
+	"sourceSize": {"w":107,"h":85}
+},
+"asn-nu/original/d00_f006.png":
+{
+	"frame": {"x":325,"y":0,"w":54,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":9,"w":54,"h":76},
+	"sourceSize": {"w":107,"h":85}
+},
+"asn-nu/original/d00_f007.png":
+{
+	"frame": {"x":379,"y":0,"w":54,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":9,"w":54,"h":76},
+	"sourceSize": {"w":107,"h":85}
+}},
+"animations": {
+	"asn-nu/original/d00_f": ["asn-nu/original/d00_f000.png","asn-nu/original/d00_f001.png","asn-nu/original/d00_f002.png","asn-nu/original/d00_f003.png","asn-nu/original/d00_f004.png","asn-nu/original/d00_f005.png","asn-nu/original/d00_f006.png","asn-nu/original/d00_f007.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asn-nu-original.png",
+	"format": "RGBA8888",
+	"size": {"w":433,"h":76},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b098a01f2bfb759cf3bd5a1e5546b7d9:d44dc520ce586530388633e400ac2e27:d393db043eeaec7ea25bf0dc16443911$"
+}
+}

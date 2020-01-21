@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es5",    
+      "lib": ["es6", "dom"], 
+      "module": "commonJS", 
+      "outDir": "./www",    
+      "downlevelIteration": true 
+    },
+    "include": ["./src/**/*", "./libs/**/*"],
+    "exclude": [
+      "./node_modules", "./scripts"
+    ]
+  }

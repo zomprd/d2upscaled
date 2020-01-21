@@ -1,0 +1,79 @@
+{"frames": {
+
+"asn-nu/lady/d00_f000.png":
+{
+	"frame": {"x":0,"y":0,"w":129,"h":158},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":129,"h":158},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/lady/d00_f001.png":
+{
+	"frame": {"x":158,"y":0,"w":129,"h":158},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":129,"h":158},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/lady/d00_f002.png":
+{
+	"frame": {"x":157,"y":129,"w":131,"h":159},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":131,"h":159},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/lady/d00_f003.png":
+{
+	"frame": {"x":316,"y":129,"w":131,"h":158},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":131,"h":158},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/lady/d00_f004.png":
+{
+	"frame": {"x":0,"y":260,"w":131,"h":158},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":131,"h":158},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/lady/d00_f005.png":
+{
+	"frame": {"x":158,"y":260,"w":131,"h":159},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":131,"h":159},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/lady/d00_f006.png":
+{
+	"frame": {"x":316,"y":0,"w":129,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":129,"h":157},
+	"sourceSize": {"w":214,"h":170}
+},
+"asn-nu/lady/d00_f007.png":
+{
+	"frame": {"x":0,"y":129,"w":129,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":129,"h":157},
+	"sourceSize": {"w":214,"h":170}
+}},
+"animations": {
+	"asn-nu/lady/d00_f": ["asn-nu/lady/d00_f000.png","asn-nu/lady/d00_f001.png","asn-nu/lady/d00_f002.png","asn-nu/lady/d00_f003.png","asn-nu/lady/d00_f004.png","asn-nu/lady/d00_f005.png","asn-nu/lady/d00_f006.png","asn-nu/lady/d00_f007.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asn-nu-lady.png",
+	"format": "RGBA8888",
+	"size": {"w":474,"h":391},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b9a1b61f0590a5a37965a7924ff6ab81:06e7922df786f58b3378d692c6c0601f:84d2ada9dfa152532ed82348615d7971$"
+}
+}

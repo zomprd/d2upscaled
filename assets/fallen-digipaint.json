@@ -1,0 +1,95 @@
+{"frames": {
+
+"fallen/digipaint/d00_f000.png":
+{
+	"frame": {"x":0,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/digipaint/d00_f001.png":
+{
+	"frame": {"x":114,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/digipaint/d00_f002.png":
+{
+	"frame": {"x":228,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/digipaint/d00_f003.png":
+{
+	"frame": {"x":342,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/digipaint/d00_f004.png":
+{
+	"frame": {"x":456,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/digipaint/d00_f005.png":
+{
+	"frame": {"x":570,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/digipaint/d00_f006.png":
+{
+	"frame": {"x":684,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/digipaint/d00_f007.png":
+{
+	"frame": {"x":798,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/digipaint/d00_f008.png":
+{
+	"frame": {"x":912,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/digipaint/d00_f009.png":
+{
+	"frame": {"x":1026,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+}},
+"animations": {
+	"fallen/digipaint/d00_f": ["fallen/digipaint/d00_f000.png","fallen/digipaint/d00_f001.png","fallen/digipaint/d00_f002.png","fallen/digipaint/d00_f003.png","fallen/digipaint/d00_f004.png","fallen/digipaint/d00_f005.png","fallen/digipaint/d00_f006.png","fallen/digipaint/d00_f007.png","fallen/digipaint/d00_f008.png","fallen/digipaint/d00_f009.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fallen-digipaint.png",
+	"format": "RGBA8888",
+	"size": {"w":1140,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4ce381c64d14a9f99672d80b68b315a5:e44223a21f9d2ba541f5229ace3af491:52d2541b0d22f6d44c172ffc7a95b124$"
+}
+}

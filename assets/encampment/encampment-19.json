@@ -1,0 +1,45 @@
+{"frames": {
+
+"encampment/cropped_85_rlt":
+{
+	"frame": {"x":1,"y":1,"w":820,"h":820},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":820,"h":820},
+	"sourceSize": {"w":820,"h":820}
+},
+"encampment/cropped_86_rlt":
+{
+	"frame": {"x":1,"y":823,"w":820,"h":820},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":820,"h":820},
+	"sourceSize": {"w":820,"h":820}
+},
+"encampment/cropped_87_rlt":
+{
+	"frame": {"x":823,"y":1,"w":820,"h":820},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":820,"h":820},
+	"sourceSize": {"w":820,"h":820}
+},
+"encampment/cropped_88_rlt":
+{
+	"frame": {"x":823,"y":823,"w":820,"h":820},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":820,"h":820},
+	"sourceSize": {"w":820,"h":820}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "encampment-19.png",
+	"format": "RGBA8888",
+	"size": {"w":1644,"h":1644},
+	"scale": "1",
+	"related_multi_packs": [ "encampment-0.json", "encampment-1.json", "encampment-2.json", "encampment-3.json", "encampment-4.json", "encampment-5.json", "encampment-6.json", "encampment-7.json", "encampment-8.json", "encampment-9.json", "encampment-10.json", "encampment-11.json", "encampment-12.json", "encampment-13.json", "encampment-14.json", "encampment-15.json", "encampment-16.json", "encampment-17.json", "encampment-18.json", "encampment-20.json", "encampment-21.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:025a0bea33eb6f0644d61b34495c89fe:e945b6aafec292d7474568360bce2647:a8efd63c9238a491f3868311d29583c2$"
+}
+}

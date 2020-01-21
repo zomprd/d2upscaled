@@ -1,0 +1,79 @@
+{"frames": {
+
+"zombie/digipaint/d00_f000.png":
+{
+	"frame": {"x":0,"y":0,"w":72,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":132},
+	"sourceSize": {"w":72,"h":132}
+},
+"zombie/digipaint/d00_f001.png":
+{
+	"frame": {"x":0,"y":132,"w":72,"h":132},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":132},
+	"sourceSize": {"w":72,"h":132}
+},
+"zombie/digipaint/d00_f002.png":
+{
+	"frame": {"x":72,"y":0,"w":72,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":132},
+	"sourceSize": {"w":72,"h":132}
+},
+"zombie/digipaint/d00_f003.png":
+{
+	"frame": {"x":132,"y":132,"w":72,"h":132},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":132},
+	"sourceSize": {"w":72,"h":132}
+},
+"zombie/digipaint/d00_f004.png":
+{
+	"frame": {"x":144,"y":0,"w":72,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":132},
+	"sourceSize": {"w":72,"h":132}
+},
+"zombie/digipaint/d00_f005.png":
+{
+	"frame": {"x":216,"y":0,"w":72,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":132},
+	"sourceSize": {"w":72,"h":132}
+},
+"zombie/digipaint/d00_f006.png":
+{
+	"frame": {"x":264,"y":132,"w":72,"h":132},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":132},
+	"sourceSize": {"w":72,"h":132}
+},
+"zombie/digipaint/d00_f007.png":
+{
+	"frame": {"x":288,"y":0,"w":72,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":132},
+	"sourceSize": {"w":72,"h":132}
+}},
+"animations": {
+	"zombie/digipaint/d00_f": ["zombie/digipaint/d00_f000.png","zombie/digipaint/d00_f001.png","zombie/digipaint/d00_f002.png","zombie/digipaint/d00_f003.png","zombie/digipaint/d00_f004.png","zombie/digipaint/d00_f005.png","zombie/digipaint/d00_f006.png","zombie/digipaint/d00_f007.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "zombie-digipaint.png",
+	"format": "RGBA8888",
+	"size": {"w":396,"h":204},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cb43e5d17bcccb4e403bee97a3b17ea3:ffaeeaec1cc3804310be066e44180240:078a42185b021a8ce809cc05dc9899af$"
+}
+}

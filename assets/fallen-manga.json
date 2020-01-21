@@ -1,0 +1,95 @@
+{"frames": {
+
+"fallen/manga/d00_f000.png":
+{
+	"frame": {"x":0,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/manga/d00_f001.png":
+{
+	"frame": {"x":114,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/manga/d00_f002.png":
+{
+	"frame": {"x":228,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/manga/d00_f003.png":
+{
+	"frame": {"x":342,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/manga/d00_f004.png":
+{
+	"frame": {"x":456,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/manga/d00_f005.png":
+{
+	"frame": {"x":570,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/manga/d00_f006.png":
+{
+	"frame": {"x":684,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/manga/d00_f007.png":
+{
+	"frame": {"x":798,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/manga/d00_f008.png":
+{
+	"frame": {"x":912,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+},
+"fallen/manga/d00_f009.png":
+{
+	"frame": {"x":1026,"y":0,"w":114,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":128},
+	"sourceSize": {"w":114,"h":128}
+}},
+"animations": {
+	"fallen/manga/d00_f": ["fallen/manga/d00_f000.png","fallen/manga/d00_f001.png","fallen/manga/d00_f002.png","fallen/manga/d00_f003.png","fallen/manga/d00_f004.png","fallen/manga/d00_f005.png","fallen/manga/d00_f006.png","fallen/manga/d00_f007.png","fallen/manga/d00_f008.png","fallen/manga/d00_f009.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fallen-manga.png",
+	"format": "RGBA8888",
+	"size": {"w":1140,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5003fd7677b7156cfde9e177635e891f:2fd255547e6b99af17a8069347a53e9a:1823c3941ca0a9d0ec647506e3e796f3$"
+}
+}
