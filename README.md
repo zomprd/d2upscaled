@@ -1,1 +1,1 @@
-# d2upscaled
+# Diablo 2 Upscaled
